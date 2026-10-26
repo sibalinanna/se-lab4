@@ -1,0 +1,4 @@
+# Meghibásodás esetén nem lő a másikból
+GT4500,1,1.0,1,0.0 # Primary mindig elromlik (1.0), Secondary jó
+TORPEDO,SINGLE # Megpróbálja a primary-t, de hiba lesz, nem vált át.
+EXIT

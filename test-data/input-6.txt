@@ -1,0 +1,4 @@
+# ALL mód, de az egyik tár üres
+GT4500,0,0.0,1,0.0
+TORPEDO,ALL
+EXIT
