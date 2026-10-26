@@ -1,0 +1,5 @@
+# SINGLE mód alapműködése és váltakozás
+GT4500,2,0.0,2,0.0
+TORPEDO,SINGLE # elsődleges tárból lő
+TORPEDO,SINGLE # másodlagos tárból lő
+EXIT
